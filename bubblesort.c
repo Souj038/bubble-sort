@@ -3,7 +3,7 @@
 int main()
 {
     int a[10],i,j,temp,n;
-    printf("\n Enter the max no.of Elements to Sort: \n");
+    printf("\n Enter the number of Elements to be Sorted: \n");
     scanf("%d",&n);
     printf("\n Enter the Elements : \n");
     for(i=0; i<n; i++)
